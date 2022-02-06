@@ -1,0 +1,2 @@
+Los documentos que se agreguen en Github, al dar click en Create new document, solo podemos hacer archivos de texto o código.
+Debemos poner el nombre y la extensión
