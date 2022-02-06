@@ -1,4 +1,5 @@
-# hola-mundo
-Primer repositorio de prueba
+# HELLO-WORLD
+Primer repositorio de prueba cambios
 
-Autora: Karime S.
+Autora: Karime Sánchez Andrade
+Fecha: 6 de febrero 2022
